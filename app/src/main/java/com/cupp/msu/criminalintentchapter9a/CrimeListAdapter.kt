@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.cupp.msu.criminalintentchapter9a.databinding.ListItemCrimeBinding
 
 
+
 class CrimeHolder(
     private val binding: ListItemCrimeBinding
 ) : RecyclerView.ViewHolder(binding.root) {
